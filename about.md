@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About me
-
 Hi, I'm Pablo Quarella, a 24-year-old cybersecurity researcher from Argentina. With a passion for technology and a drive to combat cybercrime, I've dedicated the past three years to the field of information security. My specialization lies in malware analysis, exploit development, and IoT vulnerability exploitation.
 
 Currently, I'm pursuing a degree in Software Engineering at the Universidad Metropolitana de Educación y Trabajo (UMET) in Buenos Aires. This academic journey complements my hands-on experience and keeps me at the forefront of technological advancements.
